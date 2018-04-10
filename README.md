@@ -1,5 +1,5 @@
 # Odoo-React-Native
-POV for using React Native as mobile client for the Odoo Platform
+POC for using React Native as mobile client for the Odoo Platform
 
 ## Feature
 - Basic CRUD Function
