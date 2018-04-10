@@ -1,0 +1,7 @@
+{
+  "name": "odoo",
+  "displayName": "Odoo App",
+  "expo": {
+    "sdkVersion": "26.0.0"
+  }
+}

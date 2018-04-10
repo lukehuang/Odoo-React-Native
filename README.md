@@ -1,6 +1,17 @@
 # Odoo-React-Native
-POV for using React Native as mobile client for the Odoo Platform 
+POV for using React Native as mobile client for the Odoo Platform
 
-#Features
+## Feature
 - Basic CRUD Function
 - Data Persist
+
+
+## Development setup
+
+Describe how to install all development dependencies and how to start
+
+```sh
+> yarn
+> yarn ios OR yarn android
+> yarn test
+```
